@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.8a2c9399.css",
-    "main.js": "/homepage/static/js/main.a4e7ac6f.js",
-    "static/js/453.1eb5cc81.chunk.js": "/homepage/static/js/453.1eb5cc81.chunk.js",
+    "main.css": "/homepage/static/css/main.fa8cfd4f.css",
+    "main.js": "/homepage/static/js/main.4ca962d6.js",
+    "static/js/453.14a68ee7.chunk.js": "/homepage/static/js/453.14a68ee7.chunk.js",
+    "static/media/Firefox.png": "/homepage/static/media/Firefox.f2b8df663710fd95afdb.png",
+    "static/media/Safari.png": "/homepage/static/media/Safari.99446a7fd35867a98c8e.png",
+    "static/media/Telegram.png": "/homepage/static/media/Telegram.feebbe7b597ea26446ec.png",
+    "static/media/Trello.png": "/homepage/static/media/Trello.31bd55b821e3d9df90d8.png",
+    "static/media/remove.png": "/homepage/static/media/remove.3c662b752278fc52f408.png",
+    "static/media/gearb.png": "/homepage/static/media/gearb.e281d354760b651172e9.png",
+    "static/media/delete.png": "/homepage/static/media/delete.db662a3b97127f354f91.png",
+    "static/media/Hola.png": "/homepage/static/media/Hola.b41c195b9279751c872a.png",
+    "static/media/Uplabs.png": "/homepage/static/media/Uplabs.cdfdfa6898b0e4f6b47b.png",
+    "static/media/pencb.png": "/homepage/static/media/pencb.a3778133a58b2a05b9ea.png",
+    "static/media/MailChimp.png": "/homepage/static/media/MailChimp.bd85a1dca25d4ff18a96.png",
+    "static/media/Messenger.png": "/homepage/static/media/Messenger.8c86ad273b7fe696b38a.png",
+    "static/media/moon.png": "/homepage/static/media/moon.20b63fe6a03d166230a3.png",
     "index.html": "/homepage/index.html",
-    "main.8a2c9399.css.map": "/homepage/static/css/main.8a2c9399.css.map",
-    "main.a4e7ac6f.js.map": "/homepage/static/js/main.a4e7ac6f.js.map",
-    "453.1eb5cc81.chunk.js.map": "/homepage/static/js/453.1eb5cc81.chunk.js.map"
+    "main.fa8cfd4f.css.map": "/homepage/static/css/main.fa8cfd4f.css.map",
+    "main.4ca962d6.js.map": "/homepage/static/js/main.4ca962d6.js.map",
+    "453.14a68ee7.chunk.js.map": "/homepage/static/js/453.14a68ee7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a2c9399.css",
-    "static/js/main.a4e7ac6f.js"
+    "static/css/main.fa8cfd4f.css",
+    "static/js/main.4ca962d6.js"
   ]
 }
