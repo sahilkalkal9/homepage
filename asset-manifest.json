@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.fa8cfd4f.css",
-    "main.js": "/homepage/static/js/main.7bb3c3f2.js",
+    "main.css": "/homepage/static/css/main.e3579fb7.css",
+    "main.js": "/homepage/static/js/main.f03d9c65.js",
     "static/js/453.14a68ee7.chunk.js": "/homepage/static/js/453.14a68ee7.chunk.js",
+    "static/media/pic5.jpg": "/homepage/static/media/pic5.108a10f0566fc1a59229.jpg",
+    "static/media/pic3.jpg": "/homepage/static/media/pic3.33d5e120e79eacbbd619.jpg",
+    "static/media/pic6.jpg": "/homepage/static/media/pic6.ac8ed5940ca1144c4670.jpg",
+    "static/media/pic2.jpg": "/homepage/static/media/pic2.560ece480c434b5beb49.jpg",
+    "static/media/pic1.jpg": "/homepage/static/media/pic1.b897812ff8f05eea2187.jpg",
+    "static/media/pic4.jpg": "/homepage/static/media/pic4.454e6196214cc9250834.jpg",
     "static/media/Firefox.png": "/homepage/static/media/Firefox.f2b8df663710fd95afdb.png",
     "static/media/Safari.png": "/homepage/static/media/Safari.99446a7fd35867a98c8e.png",
     "static/media/Telegram.png": "/homepage/static/media/Telegram.feebbe7b597ea26446ec.png",
@@ -17,12 +23,12 @@
     "static/media/Messenger.png": "/homepage/static/media/Messenger.8c86ad273b7fe696b38a.png",
     "static/media/moon.png": "/homepage/static/media/moon.20b63fe6a03d166230a3.png",
     "index.html": "/homepage/index.html",
-    "main.fa8cfd4f.css.map": "/homepage/static/css/main.fa8cfd4f.css.map",
-    "main.7bb3c3f2.js.map": "/homepage/static/js/main.7bb3c3f2.js.map",
+    "main.e3579fb7.css.map": "/homepage/static/css/main.e3579fb7.css.map",
+    "main.f03d9c65.js.map": "/homepage/static/js/main.f03d9c65.js.map",
     "453.14a68ee7.chunk.js.map": "/homepage/static/js/453.14a68ee7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa8cfd4f.css",
-    "static/js/main.7bb3c3f2.js"
+    "static/css/main.e3579fb7.css",
+    "static/js/main.f03d9c65.js"
   ]
 }
