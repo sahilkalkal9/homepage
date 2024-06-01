@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1238500f.css",
-    "main.js": "/static/js/main.e8d84f82.js",
+    "main.css": "/static/css/main.c842a333.css",
+    "main.js": "/static/js/main.38d918d0.js",
     "static/js/453.14a68ee7.chunk.js": "/static/js/453.14a68ee7.chunk.js",
     "static/media/hms-hood.png": "/static/media/hms-hood.05307a190d33984e0e77.png",
     "static/media/Morning in a Pine Forest.jpg": "/static/media/Morning in a Pine Forest.4e6782f528e30e26351c.jpg",
@@ -110,12 +110,12 @@
     "static/media/pencb.png": "/static/media/pencb.a3778133a58b2a05b9ea.png",
     "static/media/moon.png": "/static/media/moon.20b63fe6a03d166230a3.png",
     "index.html": "/index.html",
-    "main.1238500f.css.map": "/static/css/main.1238500f.css.map",
-    "main.e8d84f82.js.map": "/static/js/main.e8d84f82.js.map",
+    "main.c842a333.css.map": "/static/css/main.c842a333.css.map",
+    "main.38d918d0.js.map": "/static/js/main.38d918d0.js.map",
     "453.14a68ee7.chunk.js.map": "/static/js/453.14a68ee7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1238500f.css",
-    "static/js/main.e8d84f82.js"
+    "static/css/main.c842a333.css",
+    "static/js/main.38d918d0.js"
   ]
 }
